@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-✨ My name's Marc-Olivier and I'm a student developper. Marco is fine.
+✨ My name's Marc-Olivier and I'm a student developper. Marco is fine. 😄
 
 <!--
 **MarcOlivier91/MarcOlivier91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
