@@ -2,8 +2,8 @@
 
 ✨ My name's Marc-Olivier and I'm a student developper. Marco is fine. 😄
 
-- 🔭 I’m currently working on a Network project for my school.
-- 🌱 I’m currently learning React ( Next ) and TailwindCSS.
+- 🔭 I’m currently working on some projects for my school.
+- 🌱 I’m currently learning React ( Next ), TailwindCSS and Typescript.
 - 👯 I’m looking to collaborate on front-end developpement.
 - 💬 Ask me about my hoobies, projects and even animes and mangas.
 
