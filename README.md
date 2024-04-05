@@ -2,10 +2,14 @@
 
 ✨ My name's Marc-Olivier and I'm a student developper. Marco is fine. 😄
 
-- 🔭 I’m currently working on some projects for my school.
-- 🌱 I’m currently learning React ( Next ), Angular, TailwindCSS and Typescript, but I've also worked with much more languages.
+- 🔭 I’m currently working on some projects to gain knowledge about web developpement.
+- 🌱 I’m currently learning React ( Next ), Angular, TailwindCSS, Typescript and Flutter for Mobile, but I've also worked with much more languages.
 - 👯 I’m looking to collaborate on front-end or full-stack developpement.
 - 💬 Ask me about my hobbies, projects or even animes and mangas.
+- 📫 If you're interested, you can contact me on : 
+  - LinkedIn : Marc-Olivier Sossou
+  - Mail : smarc.mailpro@gmail.com
+  - Phone : (+33)6 81 29 67 39
 
 <!--
 **MarcOlivier91/MarcOlivier91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
