@@ -9,8 +9,7 @@
 - 📫 If you're interested, you can contact me on : 
   - LinkedIn : Marc-Olivier Sossou
   - Mail : smarc.mailpro@gmail.com
-  - Phone : (+33)6 81 29 67 39
-
+    
 <!--
 **MarcOlivier91/MarcOlivier91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
